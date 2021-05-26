@@ -738,8 +738,6 @@ Visualisasikan dan hasilkan secara otomatis meta tag social kami dengan [Meta Ta
 
 ## Terjemahan
 
-The Front-End Checklist is also available in other languages. Thanks for all translators and their awesome work!
-
 Front-End Checklist juga tersedia dalam bahasa lain. Terima kasih kepada semua penerjemah dan pekerjaan mereka yang luar biasa!
 
 * 🇯🇵 Jepang: [miya0001/Front-End-Checklist](https://github.com/miya0001/Front-End-Checklist)
@@ -759,8 +757,6 @@ Front-End Checklist juga tersedia dalam bahasa lain. Terima kasih kepada semua p
 ---
 
 ## Front-End Checklist Badge
-
-If you want to show you are following the rules of the Front-End Checklist, put this badge on your README file!
 
 Jika anda ingin menunjukkan bahwa anda telah mengikuti aturan dari Front-End Checklist, letakkan badge ini di file README anda.
 
@@ -785,7 +781,7 @@ Repositori **Front-End Checklist** terdiri dari dua branch (cabang repositori):
 
 #### 1. `master`
 
-This branch consists of the `README.md` file that is automatically reflected on the [Front-End Checklist](https://frontendchecklist.io) website. Branch ini terdiri dari file `README.md` yang secara otomatis direfleksikan pada situs web [Front-End Checklist](https://frontendchecklist.io)
+ Branch ini terdiri dari file `README.md` yang secara otomatis direfleksikan pada situs web [Front-End Checklist](https://frontendchecklist.io)
 
 #### 2. `develop`
 
